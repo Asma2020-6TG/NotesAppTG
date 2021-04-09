@@ -60,3 +60,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+1- create laravel project: Notesapptg
+2- add repo on git and push the project
+3- make register, login, logout and create database with users and notes' tables
